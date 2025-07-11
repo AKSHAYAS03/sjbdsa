@@ -37,10 +37,9 @@ public class BST {
 	}
 	public static void main(String[] args) {
 		BST b=new BST();
-		b.insert(78);
-		b.insert(45);
-		b.insert(8);
-		b.insert(9);
+		b.insert(10);
+		b.insert(5);
+		b.insert(40);
 		b.inorder();
 	}
 		}
